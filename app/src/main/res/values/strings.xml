@@ -1,0 +1,78 @@
+<resources>
+    <string name="app_name">Millionaire Quiz</string>
+    <string name="millionaire_logo">millionairelogo</string>
+    <string name="btn_submit">Submit</string>
+    <string name="score_text">Score: $%d</string>
+
+
+
+    <string name="option1_content_description">Option 1</string>
+    <string name="option2_content_description">Option 2</string>
+    <string name="option3_content_description">Option 3</string>
+
+
+
+    <string name="sample_question1">What is the capital of France?</string>
+    <string name="sample_question2">What is the capital of Russia?</string>
+    <string name="sample_question3">What is the capital of Japan?</string>
+    <string name="sample_question4">What is the capital of Argentina?</string>
+    <string name="sample_question5">What is the capital of South Korea?</string>
+    <string name="sample_question6">What is the capital of Taiwan?</string>
+    <string name="sample_question7">What is the capital of Vietnam?</string>
+    <string name="sample_question8">What is the capital of Kenya?</string>
+    <string name="sample_question9">What is the capital of Morocco?</string>
+    <string name="sample_question10">What is the capital of Norway?</string>
+
+    <!-- options for question 1 -->
+    <string name="sample_option1">Paris</string>
+    <string name="sample_option2">Nice</string>
+    <string name="sample_option3">Marseille</string>
+
+    <!-- options for question 2 -->
+    <string name="sample_option4">Moscow</string>
+    <string name="sample_option5">Saint Petersburg</string>
+    <string name="sample_option6">Novosibirsk</string>
+
+    <!-- options for question 3 -->
+    <string name="sample_option7">Osaka</string>
+    <string name="sample_option8">Tokyo</string>
+    <string name="sample_option9">Yokohama</string>
+
+    <!-- options for question 4 -->
+    <string name="sample_option10">La Plata</string>
+    <string name="sample_option11">Rosario</string>
+    <string name="sample_option12">Buenos Aires</string>
+
+    <!-- options for question 5 -->
+    <string name="sample_option13">Busan</string>
+    <string name="sample_option14">Seoul</string>
+    <string name="sample_option15">Daegu</string>
+
+    <!-- options for question 6 -->
+    <string name="sample_option16">Magong</string>
+    <string name="sample_option17">Tainan City</string>
+    <string name="sample_option18">Taipei</string>
+
+    <!-- options for question 7 -->
+    <string name="sample_option19">Hanoi</string>
+    <string name="sample_option20">Ho Chi Minh City</string>
+    <string name="sample_option21">Hue</string>
+
+    <!-- options for question 8 -->
+    <string name="sample_option22">Mombasa</string>
+    <string name="sample_option23">Meru</string>
+    <string name="sample_option24">Nairobi</string>
+
+    <!-- options for question 9 -->
+    <string name="sample_option25">Marrakesh</string>
+    <string name="sample_option26">Rabat</string>
+    <string name="sample_option27">Fes</string>
+
+    <!-- options for question 10 -->
+    <string name="sample_option28">Oslo</string>
+    <string name="sample_option29">Bergen</string>
+    <string name="sample_option30">Trondheim</string>
+
+    />
+
+</resources>

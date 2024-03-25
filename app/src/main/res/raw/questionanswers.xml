@@ -1,0 +1,53 @@
+<resources>
+    <question id="questionTextView1">
+        <text>What is the capital of France?</text>
+        <correct_answer>Paris</correct_answer>
+    </question>
+
+    <question id="questionTextView2">
+        <text>What is the capital of Russia?</text>
+        <correct_answer>Moscow</correct_answer>
+    </question>
+
+    <question id="questionTextView3">
+        <text>What is the capital of Japan?</text>
+        <correct_answer>Tokyo</correct_answer>
+    </question>
+
+    <question id="questionTextView4">
+        <text>What is the capital of Argentina?</text>
+        <correct_answer>Buenos Aires</correct_answer>
+    </question>
+
+    <question id="questionTextView5">
+        <text>What is the capital of South Korea?</text>
+        <correct_answer>Seoul</correct_answer>
+    </question>
+
+    <question id="questionTextView6">
+        <text>What is the capital of Taiwan?</text>
+        <correct_answer>Taipei</correct_answer>
+    </question>
+
+    <question id="questionTextView7">
+        <text>What is the capital of Vietnam?</text>
+        <correct_answer>Hanoi</correct_answer>
+    </question>
+
+    <question id="questionTextView8">
+        <text>What is the capital of Kenya?</text>
+        <correct_answer>Nairobi</correct_answer>
+    </question>
+
+    <question id="questionTextView9">
+        <text>What is the capital of Morocco?</text>
+        <correct_answer>Rabat</correct_answer>
+    </question>
+
+    <question id="questionTextView10">
+        <text>What is the capital of Norway?</text>
+        <correct_answer>Oslo</correct_answer>
+    </question>
+
+
+</resources>
